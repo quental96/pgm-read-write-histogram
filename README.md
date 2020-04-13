@@ -6,4 +6,4 @@ The histogram is saved as `.txt` and `.pgm` files.
 
 ## Image used
 
-![](data/feep.pgm)
+![](data/feep.png)
