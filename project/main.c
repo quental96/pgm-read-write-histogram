@@ -13,7 +13,7 @@ int main(int argc, const char * argv[]) {
     int * histogram;
     int dim;
     
-    // Initialize PGM and get dimension of file
+    // Initialize PGM and get dimensions of file
     printf("Initializing PGM.\n");
     dim = initialize_pgm(path);
     tab = malloc(dim*sizeof(int));
